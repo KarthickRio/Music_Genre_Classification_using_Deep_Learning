@@ -2,7 +2,7 @@
 
 This project explores the performance of **Convolutional Neural Networks (CNNs)** and **Recurrent Neural Networks (RNNs)** for music genre classification. Both models are evaluated based on their accuracy in predicting genres from audio data.
 
-**[Download Project Slides 📊](https://github.com/username/music-genre-classification/raw/main/project-slides.ppt)**
+**[Download Project Slides 📊](https://github.com/KarthickRio/Music_Genre_Classification_using_Deep_Learning/blob/main/Music%20Genre%20Classification.pptx)**
 
 ## 📂 Dataset
 
