@@ -11,7 +11,7 @@ The dataset used for this project is the **GTZAN dataset**, which contains 1000 
 ## 🧠 Model Performance
 
 ### CNN Model:
-The CNN model achieved an accuracy of **77%** on the test set. The CNN excels in capturing local spectral patterns within the spectrogram, which is critical for identifying genre-specific characteristics in audio. You can find the model file for CNN [here 🔗](https://github.com/username/music-genre-classification/blob/main/cnn_model.py).
+The CNN model achieved an accuracy of **77%** on the test set. The CNN excels in capturing local spectral patterns within the spectrogram, which is critical for identifying genre-specific characteristics in audio. You can find the model file for CNN [here 🔗](https://github.com/KarthickRio/Music_Genre_Classification_using_Deep_Learning/blob/main/cnn_genre.py).
 
 ### RNN Model:
 The RNN model, which was designed to capture temporal dependencies in the audio data, achieved a slightly lower accuracy of **66%**. While RNNs are great for sequence modeling, they didn't perform as well as CNNs for this task, possibly due to the nature of the audio data and the way features are captured.
